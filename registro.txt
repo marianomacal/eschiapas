@@ -1,0 +1,8 @@
+avid.com
+email: marianomacal@msn.com
+pass: Qazavid2017
+
+www.github.com
+user: marianomacal
+email: marianomacal@msn.com
+pass: Qaz#git17
